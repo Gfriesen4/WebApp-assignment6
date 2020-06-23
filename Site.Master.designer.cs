@@ -15,13 +15,13 @@ namespace WebApp_assignment6
     {
 
         /// <summary>
-        /// HeadContent control.
+        /// navbarSubMenu control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder HeadContent;
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor navbarSubMenu;
 
         /// <summary>
         /// MainContent control.

@@ -48,7 +48,7 @@ namespace WebApp_assignment6.Pages
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected new global::System.Web.UI.WebControls.Label ID;
+        protected global::System.Web.UI.WebControls.Label ID;
 
         /// <summary>
         /// Name control.
